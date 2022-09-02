@@ -1,5 +1,5 @@
-#Welcome to Walking Pittsburgh History
-###An Interactive Guide through the Local History of Pittsburgh 
+# Welcome to Walking Pittsburgh History
+### An Interactive Guide through the Local History of Pittsburgh 
 
 Walking Pittsburgh's History is an interactive Progressive Web Application designed to guide users through the various historical markers of Pittsburgh's history.
 
