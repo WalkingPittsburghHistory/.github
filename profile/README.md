@@ -3,7 +3,7 @@
 
 Walking Pittsburgh's History is an interactive Progressive Web Application designed to guide users through the various historical markers of Pittsburgh's history.
 
-##Licensing 
+## Licensing 
 There are two aspects to Walking Pittsburgh History: the code of the app and the content. 
 They fall under two different licenses that are appropriate to them.
 The code is licensed under the [MIT license](https://mit-license.org/).
